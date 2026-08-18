@@ -3,16 +3,11 @@
     "name": "Idols",
     "author": "Zaphkiel7",
     "creators": ["Fufafac", "Sei.un", "GeometryTom", "HoshiKido", "Oasiz", "FarDreamer", "ZedAurum", "Bermard", "XUranoX", "Zafkiel", "Diriswan97", "WOOGI1411", "Auntex", "Axdrel", "Zenthisuper", "Kllnex", "SrGaton", "Yuno", "YukiKitsune", "Hko"],
-    "verifier": "",
+    "verifier": "Mischief",
     "verification": "https://youtu.be/IQpTtRFUCss?si=pejm-61GfW2Io2it",
     "percentToQualify": 68,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Mischief",
-            "link": "https://youtu.be/IQpTtRFUCss?si=pejm-61GfW2Io2it",
-            "percent": 100,
-            "hz": 240
-        }
+        
     ]
 }
