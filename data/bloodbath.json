@@ -2,12 +2,18 @@
     "id": 10565740,
     "name": "Bloodbath",
     "author": "Riot",
-    "creators": ["Solo_Creator"],
+    "creators": ["WeoWeoTeo, Vermillion, Michigun, Evasium, Crack, AsonicMen, Etzer, Havok, Giron, Ggboy"],
     "verifier": "",
     "verification": "https://youtu.be/8WBPTHtG5YU",
     "percentToQualify": "70",
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/8WBPTHtG5YU",
+            "percent": 100,
+            "hz": 240
+        }
   
     ]
 }
