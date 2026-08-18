@@ -1,0 +1,19 @@
+{
+    "id": 69491632,
+    "name": "Crowd Control",
+    "author": "zDeadlox",
+    "creators": ["zDeadlox", "EndLevel", "Ka1ns", "Ewop", "Silver", "Xander"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/eWU2GIM-3Fo?si=ANozJIC9MNPLxI8E",
+    "percentToQualify": "70",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Lucidzzz",
+            "link": "https://youtu.be/1yMozrDEqbg?si=RBXwAlZLeO4c_gHc",
+            "percent": 100,
+            "hz": 240
+        }
+
+    ]
+}
