@@ -1,0 +1,18 @@
+{
+    "id": 4706930,
+    "name": "Supersonic",
+    "author": "ZenthicAlpha",
+    "creators": ["Glittershroom", "Jeyzor", "Sumsar", "Xcy7", "Daddepro", "Evasium", "Ggb0y", "ZenthicAlpha", "Viprin"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/HBwFNNgL30A?si=w5-cA4lmp70RVzWj",
+    "percentToQualify": "65",
+    "password": "Free Copy",
+    "records": [
+       {
+            "user": "Mischief",
+            "link": "https://youtu.be/1yMozrDEqbg?si=Q4HpuL0ea4UNyw_R",
+            "percent": 84,
+            "hz": 240
+        }
+    ]
+}
