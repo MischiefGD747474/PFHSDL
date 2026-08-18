@@ -3,11 +3,17 @@
     "name": "Cataclysm",
     "author": "Ggb0y",
     "creators": ["Ggboy"],
-    "verifier": "Mischief",
+    "verifier": "Sam",
     "verification": "https://youtu.be/dExh1YOHiK4?si=kaKTG2JhyD53-Zri",
     "percentToQualify": "62",
     "password": "666777",
     "records": [
       
+         {
+            "user": "Mischief",
+            "link": "https://youtu.be/dExh1YOHiK4?si=1ju3uMY8LA_nccrb",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
