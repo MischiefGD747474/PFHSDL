@@ -3,11 +3,16 @@
     "name": "Thanatophobia",
     "author": "ARtu",
     "creators": ["ARtu", "hyp3rlink", "Kains", "Maitnary", "Guleshelt", "Chaeyeon", "RealVet", "Voltex", "Zipixbox", "itami", "NaimNaro"],
-    "verifier": "Sam",
-    "verification": "https://youtu.be/eKdbn9oL1PU?si=M4S6Rmz6uGiTeW05",
+    "verifier": "",
+    "verification": "https://youtu.be/A0JkCaVmpn8?si=zJLeTAZBJGrX5kPY",
     "percentToQualify": "65",
     "password": "Free Copy",
     "records": [
-      
+       {
+            "user": "Sam",
+            "link": "https://youtu.be/B3RGDZlAvXs?si=s5aRqMw0OaBeIpyl",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

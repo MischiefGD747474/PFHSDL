@@ -3,11 +3,16 @@
     "name": "Ice Carbon Diablo X",
     "author": "roadbose",
     "creators": [],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/SbuJj9dvJNk?si=auO4De6OUof7tdQR",
+    "verifier": "",
+    "verification": "https://youtu.be/mhYRW_yNtWA?si=7o7dVK9fusaN7YkL",
     "percentToQualify": "72",
     "password": "Not Copyable",
     "records": [
-      
+        {
+            "user": "Bryson",
+            "link": "https://youtu.be/SbuJj9dvJNk?si=8eH5cn7RNrG0wMnV",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
