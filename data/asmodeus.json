@@ -1,0 +1,18 @@
+{
+    "id": 33670767,
+    "name": "Asmodeus",
+    "author": "Vexiion",
+    "creators": ["KrzGuzmanSB", "Vexion", "Cyberic", "Ownbit", "AngryBoy0644"],
+    "verifier": "",
+    "verification": "https://youtu.be/3OwKOI4yXLQ?si=mudYOcal3y1g27D1",
+    "percentToQualify": "72",
+    "password": "90517",
+    "records": [
+      {
+            "user": "Bryson",
+            "link": "https://youtu.be/ub0SlFaMkL4?si=Ksz8-KeQAZZ_Yvpk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
