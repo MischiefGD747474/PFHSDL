@@ -3,15 +3,21 @@
     "name": "Allegiance",
     "author": "nikroplays",
     "creators": [],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/QB4QMufL0xs?si=mZE4M9JcC9FJrD2q",
+    "verifier": "",
+    "verification": "https://youtu.be/wzutYMNXr-Y?si=x31TqTw7Gp3LhRdm",
     "percentToQualify": "78",
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Lucidzzz",
+            "user": "Bryson",
+            "link": "https://youtu.be/QB4QMufL0xs?si=cmbB9R6ZA6t2WoPt",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Brandon",
             "link": "https://youtu.be/1yMozrDEqbg?si=RBXwAlZLeO4c_gHc",
-            "percent": 81,
+            "percent": 100,
             "hz": 240
         }
 
