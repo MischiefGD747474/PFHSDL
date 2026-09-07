@@ -3,11 +3,16 @@
     "name": "niwa",
     "author": "Teno",
     "creators": ["Teno", "Mrgm", "Aranda", "Titoalper", "KrazyGFX", "Beclan", "Asuith", "Pedro", "Peng", "Blaze", "Genoxide"],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/r3aezO7Px_0?si=fTMftI-jXu4VQW8f",
+    "verifier": "",
+    "verification": "https://youtu.be/vegDZr7jh-M?si=Wh-sJx05t3TQc71K",
     "percentToQualify": "70",
     "password": "Free Copy",
     "records": [
-      
+      {
+            "user": "Bryson",
+            "link": "https://youtu.be/r3aezO7Px_0?si=PacVXaMgxPpKIPa1",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
