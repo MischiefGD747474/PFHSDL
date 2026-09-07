@@ -3,11 +3,22 @@
     "name": "Sweater Weather",
     "author": "VelYT",
     "creators": [],
-    "verifier": "???",
-    "verification": "https://youtu.be/nespK5Cm5X8?si=fKDmb4Q7CV7um19J",
+    "verifier": "",
+    "verification": "https://youtu.be/y3Kk0ZvDqUM?si=nl6tLVv3m-1ec2Kg",
     "percentToQualify": "78",
     "password": "Free Copy",
     "records": [
-      
+      {
+            "user": "Aiden",
+            "link": "https://youtu.be/B3RGDZlAvXs?si=s5aRqMw0OaBeIpyl",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Sam",
+            "link": "https://youtu.be/B3RGDZlAvXs?si=s5aRqMw0OaBeIpyl",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
