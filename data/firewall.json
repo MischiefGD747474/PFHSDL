@@ -3,11 +3,16 @@
     "name": "Firewall",
     "author": "Hinds",
     "creators": [],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/mHpQPFwpzdw?si=GwjY27Szfe6IxSge",
+    "verifier": "",
+    "verification": "https://youtu.be/fQIbTIW70fs?si=TiVRHRngkaeYxP5g",
     "percentToQualify": "70",
     "password": "Free Copy",
     "records": [
-      
+       {
+            "user": "Bryson",
+            "link": "https://youtu.be/1yMozrDEqbg?si=1lEnJN75D-PPhnWY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
