@@ -3,10 +3,16 @@
     "name": "Aftermath",
     "author": "IIExenityII",
     "creators": ["Exenity", "Squizz", "Hinds", "Vultra", "Rhythmic", "Waze", "Bassiegames", "Findexi", "knobbelboy"],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/jYB76EfrFjs?si=FszMaFxIYjOw-1S7",
+    "verifier": "",
+    "verification": "https://youtu.be/iLCcJyh5c5k?si=dqx30I9Z5vywk1xC",
     "percentToQualify": "70",
     "password": "20815",
     "records": [
+        {
+            "user": "Bryson",
+            "link": "https://youtu.be/jYB76EfrFjs?si=BHBGd9UVF-zUI-q4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
