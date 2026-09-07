@@ -3,11 +3,16 @@
     "name": "Dark Travel",
     "author": "JonathanGD",
     "creators": [],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/OdJFqFmwh14?si=VbD_kfwZWFS_Pe0c",
+    "verifier": "",
+    "verification": "https://youtu.be/lJrmDdTDVaQ?si=pXMH6vupu9yLQBzL",
     "percentToQualify": "75",
     "password": "963041",
     "records": [
-      
+      {
+            "user": "Bryson",
+            "link": "https://youtu.be/1yMozrDEqbg?si=1lEnJN75D-PPhnWY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

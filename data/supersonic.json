@@ -3,15 +3,21 @@
     "name": "Supersonic",
     "author": "ZenthicAlpha",
     "creators": ["Glittershroom", "Jeyzor", "Sumsar", "Xcy7", "Daddepro", "Evasium", "Ggb0y", "ZenthicAlpha", "Viprin"],
-    "verifier": "Lucidzzz",
-    "verification": "https://youtu.be/HBwFNNgL30A?si=w5-cA4lmp70RVzWj",
+    "verifier": "",
+    "verification": "https://youtu.be/stwou0K2pHY?si=SNXyQGNaVlAaPlHa",
     "percentToQualify": "65",
     "password": "Free Copy",
     "records": [
        {
-            "user": "Mischief",
+            "user": "Brandon",
             "link": "https://youtu.be/1yMozrDEqbg?si=Q4HpuL0ea4UNyw_R",
-            "percent": 84,
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bryson",
+            "link": "https://youtu.be/1yMozrDEqbg?si=Q4HpuL0ea4UNyw_R",
+            "percent": 95,
             "hz": 240
         }
     ]
