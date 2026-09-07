@@ -3,11 +3,16 @@
     "name": "Forbidden Isle",
     "author": "Sillow",
     "creators": [],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/2w2rHeiWkaI?si=4g3W9pTUtG7FOjXu",
+    "verifier": "",
+    "verification": "https://youtu.be/ntwfv59VQYI?si=DSNTkQ6mnN2smMpL",
     "percentToQualify": "75",
     "password": "111111",
     "records": [
-      
+      {
+            "user": "Bryson",
+            "link": "https://youtu.be/2w2rHeiWkaI?si=GdVH69AiuPB_F6ob",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

@@ -3,11 +3,16 @@
     "name": "The Flawless",
     "author": "fin",
     "creators": ["AlexOnYT", "Atheoz", "Xevenfurious", "Raptorz ", "Reverier", "Megaspeed", "Codly", "Crispy Creepz"],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/OdPor7QFz68?si=XYnbWQTLToKbsx7e",
+    "verifier": "",
+    "verification": "https://youtu.be/RHOCE37dP2A?si=wqO9wQ5CD0isHhrz",
     "percentToQualify": "79",
     "password": "Not Copyable",
     "records": [
-      
+      {
+            "user": "Bryson",
+            "link": "https://youtu.be/OdPor7QFz68?si=i0aDvXLPn_RiKRiE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
