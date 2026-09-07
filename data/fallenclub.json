@@ -3,11 +3,16 @@
     "name": "Fallen Club",
     "author": "trideapthbear",
     "creators": [],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/ts8OT7H_nUo?si=oxrfgK348kihhzcc",
+    "verifier": "",
+    "verification": "https://youtu.be/Wa7xpNv9tus?si=g4p9dCte2Ibvzfdr",
     "percentToQualify": "74",
     "password": "Free Copy",
     "records": [
-      
+      {
+            "user": "Bryson",
+            "link": "https://youtu.be/ts8OT7H_nUo?si=QRfs5DqVQnsyT0YH",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

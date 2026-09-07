@@ -3,11 +3,16 @@
     "name": "Frozen Jawbreaker",
     "author": "ItzMika",
     "creators": [],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/NADuzIg4jg8",
+    "verifier": "",
+    "verification": "https://youtu.be/Y68Cd0Hutho?si=pdanLMgvadAJyTij",
     "percentToQualify": "63",
     "password": "Free Copy",
     "records": [
-      
+      {
+            "user": "Bryson",
+            "link": "https://youtu.be/NADuzIg4jg8?si=HjPENvjU8Yi7kyD1",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
