@@ -3,11 +3,16 @@
     "name": "BuTiTi II",
     "author": "JonathanGD",
     "creators": [],
-    "verifier": "Mischief",
+    "verifier": "",
     "verification": "https://youtu.be/s12W7MrivnY?si=iiDDc4bkUy1AT-Q_",
     "percentToQualify": "75",
     "password": "684652",
     "records": [
-      
+        {
+            "user": "Bryson",
+            "link": "https://youtu.be/1yMozrDEqbg?si=1lEnJN75D-PPhnWY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
