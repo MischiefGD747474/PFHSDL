@@ -3,13 +3,19 @@
     "name": "Crowd Control",
     "author": "zDeadlox",
     "creators": ["zDeadlox", "EndLevel", "Ka1ns", "Ewop", "Silver", "Xander"],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/eWU2GIM-3Fo?si=ANozJIC9MNPLxI8E",
+    "verifier": "",
+    "verification": "https://youtu.be/-q0iBUZti9s?si=Q3P1Ta3uxGvmAwc_",
     "percentToQualify": "70",
     "password": "Free Copy",
     "records": [
         {
-            "user": "Lucidzzz",
+            "user": "Bryson",
+            "link": "https://youtu.be/eWU2GIM-3Fo?si=kfGPFTCZxGyN_TmE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Brandon",
             "link": "https://youtu.be/1yMozrDEqbg?si=RBXwAlZLeO4c_gHc",
             "percent": 100,
             "hz": 240
