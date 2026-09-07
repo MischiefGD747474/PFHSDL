@@ -3,17 +3,23 @@
     "name": "Azurite",
     "author": "Sillow",
     "creators": [],
-    "verifier": "Mischief",
-    "verification": "https://youtu.be/B3RGDZlAvXs?si=uaL-LwA810CCJ4VT",
+    "verifier": "",
+    "verification": "https://youtu.be/yQRMhKruCPw?si=P4JjZfD9Z-AULc_Z",
     "percentToQualify": "66",
     "password": "Not Copyable",
     "records": [
       
+        {
+            "user": "Bryson",
+            "link": "https://youtu.be/B3RGDZlAvXs?si=s5aRqMw0OaBeIpyl",
+            "percent": 100,
+            "hz": 240
+        },
          {
             "user": "Sam",
             "link": "https://youtu.be/1yMozrDEqbg?si=BvqEg8lnAP31B093",
             "percent": 100,
-            "hz": "???"
+            "hz": 240
         }
     ]
 }

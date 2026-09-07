@@ -3,15 +3,21 @@
     "name": "Cataclysm",
     "author": "Ggb0y",
     "creators": [],
-    "verifier": "Sam",
-    "verification": "https://youtu.be/dExh1YOHiK4?si=kaKTG2JhyD53-Zri",
+    "verifier": "",
+    "verification": "https://youtu.be/dYt5fp5VGVs?si=I0NYPyCDxYyc98M_",
     "percentToQualify": "62",
     "password": "666777",
     "records": [
       
          {
-            "user": "Mischief",
+            "user": "Sam",
             "link": "https://youtu.be/dExh1YOHiK4?si=1ju3uMY8LA_nccrb",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bryson",
+            "link": "https://youtu.be/dExh1YOHiK4?si=sWOLhkpnTaCcT0oO",
             "percent": 100,
             "hz": 240
         }
