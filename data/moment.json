@@ -1,0 +1,20 @@
+{
+    "id": 23262780,
+    "name": "Moment",
+    "author": "Lexycat",
+    "creators": ["icedcave", "Lexycat", "Stormfly"],
+    "verifier": "Gurt",
+    "verification": "https://youtu.be/NnjJfCRHY5k?si=MaIqhqs2db1nxt2s",
+    "percentToQualify": "63",
+    "password": "Not Copyable",
+    "records": [
+     
+        {
+            "user": "EK",
+            "link": "https://youtu.be/DIimKl7G0Ks?si=_WBLfiSVcUUo76BP",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+    
+}
