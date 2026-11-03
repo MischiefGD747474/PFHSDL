@@ -1,0 +1,26 @@
+{
+    "id": 25610878,
+    "name": "Aftermath",
+    "author": "IIExenityII",
+    "creators": ["Findexi", "Bassiegames", "Rhythmic", "Exenity", "Hinds", "knobbelboy", "Squizz", "Vultra", "Waze"],
+    "verifier": "Gurt",
+    "verification": "https://youtu.be/PbKqxRFQtBg?si=l26uRfmzOWEuiZ73",
+    "percentToQualify": "69",
+    "password": "020815",
+    "records": [
+     
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/jYB76EfrFjs?si=me5b4-SbIORZBZHC",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "EK",
+            "link": "https://youtu.be/pmToRjZ_99k?si=56NY8tvtndo_s3EM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+    
+}
