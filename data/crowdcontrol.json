@@ -1,0 +1,36 @@
+{
+    "id": 69491632,
+    "name": "Crowd Control",
+    "author": "zDeadlox",
+    "creators": ["Ka1ns", "Endlevel", "Deadlox", "ewop", "silver"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/eWU2GIM-3Fo?si=YCGT43JCcHCKjDzu",
+    "percentToQualify": "70",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MrTickleToe",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Serene",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BeastAngel130",
+            "link": "https://youtu.be/RIy_ffxlpHE?si=h3XIEOMmNxLoXRRh",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Spade",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 77,
+            "hz": 240
+        }
+    ]
+}
