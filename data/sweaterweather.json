@@ -1,0 +1,19 @@
+{
+    "id": 69333212,
+    "name": "Promethean",
+    "author": "EndLevel",
+    "creators": ["VelYT"],
+    "verifier": "EK",
+    "verification": "https://youtu.be/oc4ctisZ3NI?si=wCV7ij5A7ajU_K54",
+    "percentToQualify": "63",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "N8tl",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+    
+}
