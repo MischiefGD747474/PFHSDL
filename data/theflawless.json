@@ -1,0 +1,18 @@
+{
+    "id": 21280210,
+    "name": "The Flawless",
+    "author": "fin",
+    "creators": ["crispy creepz", "raptorz", "codly", "megaspeed", "atheoz", "reverier", "xevenfurious", "fin"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/OdPor7QFz68?si=uAA5IME8gSeGo2xF",
+    "percentToQualify": "78",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Donojboi8",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
