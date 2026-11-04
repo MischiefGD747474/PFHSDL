@@ -1,14 +1,19 @@
 {
     "id": 42584142,
-    "name": "Codependence (2P)",
+    "name": "Double Dynamo (2P)",
     "author": "spark",
     "creators": [],
-    "verifier": ["N8tl", "MrTickleToe"],
+    "verifier": "MrTickleToe",
     "verification": "https://youtu.be/riTGxGjdVE4?si=yre15lAAtupRt4gk",
     "percentToQualify": "70",
     "password": "Free Copy",
     "records": [
-     
+        {
+            "user": "N8tl",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 100,
+            "hz": 240
+        }
     ]
     
 }
