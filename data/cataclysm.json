@@ -1,0 +1,62 @@
+{
+    "id": "3979721",
+    "name": "Cataclysm",
+    "author": "Ggboy",
+    "creators": [],
+    "verifier": "N8tl",
+    "verification": "https://youtu.be/AtSy7s3ZizE?si=jtIZnumlRZXZ-K_a",
+    "percentToQualify": "64",
+    "password": "666777",
+    "records": [
+        {
+            "user": "Gurt",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Donojboi8",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Platnum",
+            "link": "https://youtu.be/AtSy7s3ZizE?si=jtIZnumlRZXZ-K_a",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bluublocks",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BeastAngel130",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "EK",
+            "link": "https://youtu.be/Zk3L5JYfllg?si=YKs4dqTRSEydGtse",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/dExh1YOHiK4?si=kGwRb0S4hqJWFEro",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Serene",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 67,
+            "hz": 240
+        }
+        
+    ]
+    
+}
