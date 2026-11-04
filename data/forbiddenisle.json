@@ -1,0 +1,18 @@
+{
+    "id": 63775846,
+    "name": "Forbidden Isle",
+    "author": "Sillow",
+    "creators": [],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/2w2rHeiWkaI?si=uSRc00BHpUeimWRc",
+    "percentToQualify": "75",
+    "password": "111111",
+    "records": [
+         {
+            "user": "BeastAngel130",
+            "link": "https://youtu.be/ahFt6Vr1b7g?si=Txg13BWSk3r-rKDv",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
