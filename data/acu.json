@@ -1,0 +1,32 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": [],
+    "verifier": "Gurt",
+    "verification": "https://youtu.be/wV5Czs35xz8?si=XmsjseVzSHj70YkJ",
+    "percentToQualify": "68",
+    "password": "Free Copy",
+    "records": [
+     
+        {
+            "user": "BeastAngel130",
+            "link": "https://youtu.be/4-D753d75N8?si=VA-GjjveMduXUht5",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mischief",
+            "link": "https://youtu.be/PpMjkYrnh-0?si=bpFu48Us8QoOoIhL",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Serene",
+            "link": "https://youtu.be/ilfTfC0FQcc?si=3D5aMmNzk4nOZq86",
+            "percent": 76,
+            "hz": 240
+        }
+    ]
+    
+}
